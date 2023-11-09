@@ -1,0 +1,11 @@
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\bin\Debug\FileHunter.exe.config
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\bin\Debug\FileHunter.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\bin\Debug\FileHunter.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\bin\Debug\FileHunter.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.vbprojResolveAssemblyReference.cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.Resources.resources
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.vbproj.GenerateResource.Cache
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.exe
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.xml
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.pdb
+c:\users\vmadministrator\documents\visual studio 2015\Projects\FileHunter\FileHunter\obj\Debug\FileHunter.FileHunter.resources
